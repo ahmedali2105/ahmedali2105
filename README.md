@@ -17,7 +17,7 @@ Enhancement of self-skills, and learning of coding and design. Keep tuned, will 
 ## Contact Me
 Please feel free to contact regarding a possible collaboration in a project or feel free to just chat. Thoughts/ideas welcome too!
 
-- Email: [aleahmed21005@gmail.com]
+- Email: aleahmed21005@gmail.com
 - LikedIn https://www.linkedin.com/in/syed-ahmed-ali-/
 
 Thank you for visiting my GitHub!
