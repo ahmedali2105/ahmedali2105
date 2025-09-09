@@ -1,54 +1,82 @@
-<h1 align="center">👋 Hi there, I'm Syed Ahmed Ali</h1>
-<p align="center">🚀 Entry-Level Data Analyst | Python Enthusiast | AI/ML Learner</p>
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Syed+Ahmed+Ali;🚀+Data+Analyst+%7C+Python+Developer;🤖+AI%2FML+Learner;✨+Passionate+Problem+Solver">
+</div>
 
 ---
 
 ## 🧑‍💻 About Me  
-I'm an aspiring **Data Analyst & AI/ML Engineer** with a growing skill set in Python, Data Science, and Machine Learning.  
-Passionate about solving real-world problems using data and automation. Currently pursuing my education in **Computer Science**, constantly learning and building.
+I’m an aspiring **Data Analyst & AI/ML Engineer** 💡 with a deep interest in **Data Science, Automation, and Generative AI**.  
+Currently pursuing **BS in Computer Science**, exploring cutting-edge AI frameworks, and building real-world projects.  
 
-- 🌱 Currently learning: **TensorFlow**, **LangChain**, **Generative AI**
-- 💡 Exploring: **LLMs**, **Transformers**, and **NLP**
-- 🤝 Open to collaboration on Python/Data projects
-- 🧠 Fun Fact: I enjoy both **graphic design** and **coding** equally!
+- 🌱 Currently Learning: **TensorFlow, LangChain, Generative AI**  
+- 💡 Exploring: **LLMs, Transformers, NLP**  
+- 🤝 Open to collaboration on **Python, ML & Data Projects**  
+- 🎨 Fun fact: I balance my time between **Graphic Designing 🎨 & Coding 💻**  
 
 ---
 
-## 🛠️ Skills & Tools  
+## ⚡ Tech Arsenal  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Projects  
-🚧 Currently working on:
+## 🚀 Featured Projects  
 
-- 🛰️ **SpaceX Launch Prediction App** using Machine Learning & Weather API  
-- 📈 **COVID-19 Data Analysis** with Matplotlib, Seaborn & Pandas  
-- 🤖 **AI Chatbot using Transformers** & LangChain (in progress)
-
-💡 Projects will be added soon — stay tuned!
+🔹 🛰️ **SpaceX Launch Prediction App** → ML + Weather API for predicting launch success  
+🔹 📊 **COVID-19 Data Analysis** → Insights with Pandas, Seaborn & Matplotlib  
+🔹 🤖 **AI Chatbot** → Built using Transformers + LangChain (in progress)  
+🔹 🌐 **Streamlit Portfolio** → Interactive showcase of ML & AI projects  
 
 ---
 
-## 📫 Contact Me  
+## 📈 GitHub Analytics  
 
-Let's connect and collaborate!
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AleAhmed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=F7F406" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AleAhmed&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=F7F406&currStreakLabel=F7F406" />
+</div>
 
-- 📧 **Email**: [aleahmed21005@gmail.com](mailto:aleahmed21005@gmail.com)  
-- 🔗 **LinkedIn**: [Syed Ahmed Ali](https://www.linkedin.com/in/syed-ahmed-ali-/)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleAhmed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" />
+</div>
 
 ---
 
-<p align="center">💻 Thanks for visiting my GitHub! ✨</p>
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:aleahmed21005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syed-ahmed-ali-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AleAhmed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AleAhmed&label=Profile+Views&color=36BCF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AleAhmed?label=Followers&style=for-the-badge&color=F7F406" />
+  <img src="https://img.shields.io/github/stars/AleAhmed?label=Stars&style=for-the-badge&color=FF00FF" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=✨+Thanks+for+visiting!+✨&fontColor=fff&fontSize=22&animation=twinkling" />
+</div>
